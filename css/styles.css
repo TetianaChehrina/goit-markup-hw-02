@@ -8,7 +8,7 @@
     font-style: normal;
         font-weight: 700;
         line-height: 1.17;
-        letter-spacing: 0.02em;
+        letter-spacing: 0.03em;
         text-transform: uppercase;
 }
 .logo-text{
@@ -18,7 +18,7 @@ color:#2E2F42;
     font-style: normal;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .menu-list{
@@ -30,22 +30,12 @@ color:#2E2F42;
             letter-spacing: 0.02em;
 }
 
-.link-studio{
+.link{
     color: #2E2F42;
 }
-.link-studio:hover,
-.link-studio:focus,{
-    color: #404BBF;
+.link:hover,
+.link:focus{color: #404bbf;
 }
-
-.link-portfolio
-{color: #2E2F42;}
-.link-portfolio:hover,
-.link-portfolio:focus{color:#404BBF;
-}
-.link-contacts{color: #2E2F42;}
-.link-contacts:hover,
-.link-contacts:focus{color: #404BBF;}
 
 .contacts{
     color: #434455;
@@ -56,17 +46,15 @@ color:#2E2F42;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.mail{color:#2E2F42}
-.mail:hover,
-.mail:focus{color: #404BBF;}
+.contacts-detail{
+    color:#434455}
+.contacts-detail:hover,
+.contacts-detail:focus{
+    color: #404BBF;}
 
-.phone{color: #2E2F42;}
-.phone:hover,
-.phone:focus{color: #404BBF;}
-
-
-body {
-    color: #2E2F42;
+.body {
+    background-color: #FFFFFF;
+    color: #434455;
     font-family: 'Roboto',
         sans-serif;
 }
@@ -91,7 +79,7 @@ body {
     font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
-        letter-spacing: 0.02em;
+        letter-spacing: 0.04em;
 }
 
 .page-button:hover,
@@ -105,6 +93,7 @@ body {
         letter-spacing: 0.02em;
 }
 .benefits-text{
+    color: #434455;
     font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -130,6 +119,7 @@ body {
         letter-spacing: 0.02em;
 }
 .team-text{
+    color: #434455;
     font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -151,6 +141,7 @@ body {
         letter-spacing: 0.02em;
 }
 .portfolio-item-text{
+    color: #434455;
     font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -180,11 +171,11 @@ body {
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
     text-transform: uppercase;}
     .text-footer{
         color:#F4F4FD;
         font-size: 16px;
             line-height: 1.5;
-            letter-spacing: 0.02em;
+            letter-spacing: 0.03em;
     }
