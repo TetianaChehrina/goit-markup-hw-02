@@ -52,10 +52,10 @@ color:#2E2F42;
 .contacts-detail:focus{
     color: #404BBF;}
 
-.body {
+.body{
     background-color: #FFFFFF;
     color: #434455;
-    font-family: 'Roboto',
+    font-family: "Roboto",
         sans-serif;
 }
 .title{
@@ -75,7 +75,8 @@ color:#2E2F42;
     background-color: #4D5AE5;
     color: #FFF;
     cursor: pointer;
-    font-family: inherit;
+    font-family: "Roboto",
+        sans-serif;
     font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
@@ -87,6 +88,7 @@ color:#2E2F42;
     background-color: #404BBF;
 }
 .benefits-title{
+    color: #2e2f42;
     font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
@@ -113,6 +115,7 @@ color:#2E2F42;
     background-color: #FFF;
 }
 .team-item{
+    color: #2e2f42;
     font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
@@ -135,6 +138,7 @@ color:#2E2F42;
         text-align: center;
 }
 .item-title{
+    color: #2e2f42;
     font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
@@ -161,7 +165,7 @@ color:#2E2F42;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -177,5 +181,5 @@ color:#2E2F42;
         color:#F4F4FD;
         font-size: 16px;
             line-height: 1.5;
-            letter-spacing: 0.03em;
+            letter-spacing: 0.02em;
     }
